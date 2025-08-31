@@ -5,6 +5,7 @@ This project is a Python-based riddle game. It includes two implementations:
 - An Object-Oriented Programming (OOP) version, where riddles are represented as objects with attributes and methods.
 
 Both versions allow the user to answer riddles and check correctness.
+
 ----------Features----------
 
 Version 1: Simple Approach
@@ -24,6 +25,7 @@ Version 2: Object-Oriented Approach
 - Demonstrates the benefits of OOP:
     - Encapsulation (data + behavior in one object)
     - Reusability (easy to create new riddles)
+
 ----------Usage----------
 
 - Simple Version
@@ -33,6 +35,7 @@ Version 2: Object-Oriented Approach
 - OOP Version
     - The program asks each riddle in order.
     - Checks the user’s answer against the list of acceptable answers stored in the object.
+
 ----------Requirements----------
 
 - Python 3.x
